@@ -25,6 +25,7 @@ section h1{
     text-align: center;
     padding: 0.7rem;
     margin: 0.1rem;
+    display: block;
 }  
 header{
     background-image:url('https://images5.alphacoders.com/430/thumbbig-430918.jpg');
