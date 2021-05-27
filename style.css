@@ -6,8 +6,6 @@ body{
     background: linear-gradient(20deg,#152069,#377a98);
     background-repeat: no-repeat; 
     min-height: 100vh;
-    
-   
 }
 section{
     margin-top:6.25rem;
@@ -64,5 +62,4 @@ footer{
     padding: 5rem;
     padding-bottom: 2rem;
     font-size: 0.8rem;
-    
 }
