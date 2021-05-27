@@ -58,6 +58,7 @@ i{
 footer{
     color: white;
     text-align: center;
-    padding: 8rem;
+    padding-top: 5rem;
+    padding-bottom: 1rem;
     font-size: 0.8rem;
 }
